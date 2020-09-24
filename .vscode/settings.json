@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "array": "cpp",
+        "exception": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "vector": "cpp"
+    }
+}
