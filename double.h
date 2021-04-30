@@ -5,7 +5,7 @@
 
 // TODO: Implement all methods
 template <typename T>
-class DoublyList : public List<T> {
+class DoubleList : public List<T> {
     public:
         DoublyList() : List<T>() {}
 

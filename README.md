@@ -21,7 +21,7 @@ Implementar todas las funciones en los .h
 
 **T operator[ ](int);** // Retorna el elemento en la posición indicada
 
-**bool empty();** // Retorna si la lista está vacía o no
+**bool is_empty();** // Retorna si la lista está vacía o no
 
 **int size();** // Retorna el tamaño de la lista 
 
