@@ -6,11 +6,7 @@
 // TODO: Implement all methods
 template <typename T>
 class List {
-    protected:
-        Node<T>* head;
-        Node<T>* tail;
-        int nodes;
-
+    
     public:
         List() : head(nullptr), tail(nullptr), nodes(0) {};
         ~List(){
@@ -31,7 +27,7 @@ class List {
         virtual void clear() = 0;
         virtual void sort() = 0;
         virtual bool is_sorted() = 0;
-        virtual List* reverse() = 0;
+        virtual void reverse() = 0;
         virtual std::string name() = 0;
 };
 

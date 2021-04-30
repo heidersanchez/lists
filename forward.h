@@ -6,6 +6,10 @@
 // TODO: Implement all methods
 template <typename T>
 class ForwardList : public List<T> {
+    private:
+        Node<T>* head;
+        int nodes;
+
     public:
         ForwardList() : List<T>() {}
 

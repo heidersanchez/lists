@@ -5,7 +5,10 @@
 
 // TODO: Implement all methods
 template <typename T>
-class CircularList : public List<T> {   
+class CircularList : public List<T> {  
+    private:
+        Node<T>* head;
+        int nodes; 
     public:
         CircularList() : List<T>() { }
 

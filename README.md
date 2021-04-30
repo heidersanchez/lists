@@ -19,7 +19,7 @@ Implementar todas las funciones en los .h
 
 **void remove(int);** // Remueve en cualquier posicion
 
-**T operator[ ](int);** // Retorna el elemento en la posición indicada
+**T operator\[](int);** // Retorna el elemento en la posición indicada
 
 **bool is_empty();** // Retorna si la lista está vacía o no
 
