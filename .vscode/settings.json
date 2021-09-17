@@ -1,13 +1,11 @@
 {
     "files.associations": {
-        "array": "cpp",
-        "exception": "cpp",
         "deque": "cpp",
         "string": "cpp",
         "vector": "cpp",
-        "string_view": "cpp",
-        "initializer_list": "cpp",
-        "ranges": "cpp",
-        "utility": "cpp"
+        "__hash_table": "cpp",
+        "__split_buffer": "cpp",
+        "system_error": "cpp",
+        "unordered_map": "cpp"
     }
 }

@@ -1,4 +1,4 @@
-# Alumno: ____   _____
+# Integrantes: ____   _____
 
 # Lists
 Implementar todas las funciones en los .h
@@ -25,6 +25,13 @@ Implementar todas las funciones en los .h
 
 **int size();** // Retorna el tamaño de la lista 
 
+**void sort();** // Ordena los elementos de la lista
+
 **void clear();** // Elimina todos los elementos de la lista
 
 **void reverse();** // Revierte la lista
+
+
+> Asegurarse de que el codigo compile sin errores
+> Asegurarse de que los tests pasen
+> Total de test: 24
