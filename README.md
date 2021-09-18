@@ -32,6 +32,6 @@ Implementar todas las funciones en los .h
 **void reverse();** // Revierte la lista
 
 
-> Asegurarse de que el codigo compile sin errores
-> Asegurarse de que los tests pasen
-> Total de test: 24
+> - Asegurarse de que el codigo compile sin errores
+> - Asegurarse de que los tests pasen
+>   - Total de tests: 24
